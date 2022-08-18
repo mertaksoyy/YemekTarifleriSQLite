@@ -15,4 +15,6 @@
   
   
   
-![yemekTarifleriAnaMenü](https://user-images.githubusercontent.com/50530097/185266006-56cff024-91f9-4b1d-ad04-ee334834c3f4.PNG)
+![yemekTarifleriAnaMenü](https://user-images.githubusercontent.com/50530097/185266006-56cff024-91f9-4b1d-ad04-ee334834c3f4.PNG)  
+
+![yemekTarifleriSecim](https://user-images.githubusercontent.com/50530097/185266038-f282a139-6719-4c6f-a25b-c000d7706fdb.PNG)
