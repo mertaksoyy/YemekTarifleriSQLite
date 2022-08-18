@@ -10,4 +10,6 @@
   **6)** SQLite veritabanı kullanıldı.  
   **7)** SQLite a veri eklerken 1000 mb dan büyük veriler için bitmap kullanılılarak daha küçük boyutlu bir bitmap haline getirildi.  
   **8)** Sqlite veritabanına kayıt işlemi yapıldı.  
-  **9)** Kaydedilen veriler recyclerview içerisinde gösterildi.
+  **9)** Kaydedilen veriler recyclerview içerisinde gösterildi.  
+  
+  ![Ana Menü](C:\Users\Monster\Desktop\yemekTarifleriAnaMenü.PNG)
