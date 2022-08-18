@@ -11,3 +11,8 @@
   **7)** SQLite a veri eklerken 1000 mb dan büyük veriler için bitmap kullanılılarak daha küçük boyutlu bir bitmap haline getirildi.  
   **8)** Sqlite veritabanına kayıt işlemi yapıldı.  
   **9)** Kaydedilen veriler recyclerview içerisinde gösterildi.  
+  
+  
+  
+  
+![yemekTarifleriAnaMenü](https://user-images.githubusercontent.com/50530097/185266006-56cff024-91f9-4b1d-ad04-ee334834c3f4.PNG)
