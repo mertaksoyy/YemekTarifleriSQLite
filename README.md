@@ -1,0 +1,2 @@
+# YemekTarifleriSQLite
+ YemekTarifleriSQLite
