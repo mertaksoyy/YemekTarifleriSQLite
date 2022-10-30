@@ -1,5 +1,5 @@
 # YemekTarifleriSQLite
- Yemek Tariflerinin bulunduğu ve yemek tarifi ekleyebildiğiniz bir uygulama.
+Yemek Tariflerinin bulunduğu ve yemek tarifi ekleyebildiğiniz bir uygulama.
  
  ## Proje Adımları:
   **1)** Menu eklendi.  
